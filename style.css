@@ -20,7 +20,6 @@ body{
     transform: translateY(-50px);
     position: relative;
 }
-
 .price-tabel-3::before{
     content: "Hot";
     position: absolute;
